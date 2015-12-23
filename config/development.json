@@ -1,0 +1,18 @@
+{
+    "port" : 9001,
+    "host" : "localhost",
+    "database" : {
+        "host": "localhost",
+        "database": "nameofdatabase",
+        "user" : "postgres",
+        "password" : "password",
+        "options" : {
+            "dialect": "postgres",
+            "port":    5432
+        }
+    },
+    "redis" : {
+        "host": "localhost",
+        "port": 6379
+    }
+}

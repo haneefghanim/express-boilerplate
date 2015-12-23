@@ -1,0 +1,10 @@
+# node deps
+node_modules
+
+# PHPStorm
+.idea
+
+# Secure config files
+config/local-development.json
+config/local-production.json
+config/prod-migration.json

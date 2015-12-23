@@ -1,0 +1,15 @@
+# node deps
+node_modules/*
+
+# PHPStorm
+.idea/*
+
+.git/*
+
+# Style files
+*.less
+*.css
+*.map
+
+# Frontend assets
+assets/scripts/*

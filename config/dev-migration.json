@@ -1,0 +1,10 @@
+{
+    "development" : {
+        "host": "localhost",
+        "database": "loftshare",
+        "username" : "postgres",
+        "password" : "password",
+        "dialect": "postgres",
+        "port":    5432
+    }
+}
